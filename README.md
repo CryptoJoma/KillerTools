@@ -27,45 +27,8 @@
 3. **Install Dependencies:**
 
    ```bash
-   npm install
+   pythom -m pip install -r requirements.txt
    ```
-
-## Configuration
-
-1. **Set Up Environment Variables:**
-
-   - Create a `.env` file in the project root.
-   - Add the necessary environment variables. For example:
-
-     ```plaintext
-     API_KEY=your_api_key
-     DATABASE_URL=your_database_url
-     PORT=your_port_number
-     ```
-
-## Usage
-
-1. **Start the Application:**
-
-   ```bash
-   npm start
-   ```
-
-2. **Access the Application:**
-
-   - Open your web browser and go to `http://localhost:<your_port_number>`.
-
-3. **Using Data Management Tools:**
-
-   - Navigate to the data management section to upload, manipulate, and manage your datasets.
-
-4. **Automate Tasks:**
-
-   - Use the automation tools to set up and execute automated workflows.
-
-5. **Perform Calculations:**
-
-   - Access the calculation tools section to perform and save complex calculations.
 
 ## Contributing
 
@@ -77,4 +40,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or support, please contact [CryptoJoma](mailto:contact@cryptojoma.com).
+For any questions or support, please contact [CryptoJoma](mailto:coffee@joma.dev).
